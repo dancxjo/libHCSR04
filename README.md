@@ -2,7 +2,7 @@
 <p align="center">
   <img width = "200" src="./doc/images/HC-SR04-Ultrasonic-Sensor.jpg">
 </p>
-This repository provides a library and a ROS 2 wrapper for using the HC-SR04 ultrasonic sensor with a Raspberry Pi 3B+.
+This repository provides a library and a ROS 2 wrapper for using the HC-SR04 ultrasonic sensor with a ~~Raspberry Pi 3B+~~ Jetson Nano Orin DevKit.
 
 
 ## Introduction
